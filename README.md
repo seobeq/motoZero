@@ -1,3 +1,3 @@
 # motoZero
-C program for raspberry pi zero with motoZero controller. Makes use of softpwm. 
-uses wiringPi by Gordan Henderson
+C program for the raspberry pi zero with a motoZero motor controller. softPwm() controls the speed. 
+Uses the wiringPi library by Gordan Henderson.
